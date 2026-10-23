@@ -6,7 +6,7 @@ Audio:
     Min. 8 Tracks / 35 minutes total for a Vinyl
   Limitations:
     Max. 25 tracks / 79 minutes total for a CD
-    Max. 8 tracks / 23 minutes per Vinyl side*
+    Max. 8 tracks / 23 minutes total per Vinyl side*
   Format:
     All audio files must be delivered in WAV format. Stereo at 44.1, 48, 88.2, or 96 kHz. 16 or 24 bit depth, min. length 10 seconds**
 
