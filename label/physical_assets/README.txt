@@ -2,8 +2,8 @@ Guidelines for a Physical Copy of a Release:
 
 Audio:
   Requirements:
-    Min. 5 Tracks / 25 minutes total for a CD
-    Min. 8 Tracks / 35 minutes total for a Vinyl
+    Min. 5 Tracks / 20 minutes total for a CD
+    Min. 6 Tracks / 23 minutes total for a Vinyl
   Limitations:
     Max. 25 tracks / 79 minutes total for a CD
     Max. 8 tracks / 23 minutes total per Vinyl side*
